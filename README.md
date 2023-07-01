@@ -1,7 +1,8 @@
 # UAS_PBW
 
-Hallo ini adalah File Ujian Akhir Semester Praktikum Pemrograman Berbasis Website
+Hallo ini adalah File Ujian Akhir Semester Praktikum Mata Kuliah Pemrograman Berbasis Website
 
+4B Sistem Informasi
 Kelompok 7:
 1. Melati Nour Esa		      (2110631250049)
 2. Muhammad Fernandes	      (2110631250055)
